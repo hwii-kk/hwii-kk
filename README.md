@@ -1,5 +1,8 @@
-### Hi there 👋
+### This is Hwisung Kwon(HK) 👋
 
+
+### Undergraduate Student
+Statistics at University of Seoul.
 <!--
 **hwii-kk/hwii-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

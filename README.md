@@ -8,7 +8,7 @@
 
 + [2021 빅콘테스트 ECO 제주 부문](https://github.com/hwii-kk/21-BigContest)
 
-+ 서울시립대학교 강의 프로젝트
++ [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)
 <!--
 **hwii-kk/hwii-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

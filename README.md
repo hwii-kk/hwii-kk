@@ -3,6 +3,12 @@
 
 ### Undergraduate Student
 - Statistics at University of Seoul.(2017.03~)
+
+### Project
+
++ 2021 빅콘테스트 ECO 제주 부문
+
++ 서울시립대학교 강의 프로젝트
 <!--
 **hwii-kk/hwii-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

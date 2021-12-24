@@ -6,7 +6,7 @@
 
 ### Project
 
-+ [2021 빅콘테스트 ECO 제주 부문](https://github.com/hwii-kk/21-BigContest)
++ [2021 빅콘테스트 제주 ECO 부문](https://github.com/hwii-kk/21-BigContest)
 
 + [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)
 <!--

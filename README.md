@@ -11,7 +11,7 @@
 + [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)
 
 ### Study
-+ [머신러닝 교과서 딥러닝 파트]
++ [머신러닝 교과서 딥러닝 파트](https://github.com/hwii-kk/machine-learning-text-book-DL)
 
 
 <!--

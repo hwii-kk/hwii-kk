@@ -9,6 +9,11 @@
 + [2021 빅콘테스트 제주 ECO 부문](https://github.com/hwii-kk/21-BigContest)
 
 + [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)
+
+### Study
++ [머신러닝 교과서 딥러닝 파트]
+
+
 <!--
 **hwii-kk/hwii-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -15,6 +15,8 @@
 ### Study
 + [머신러닝 교과서 딥러닝 파트](https://github.com/hwii-kk/machine-learning-text-book-DL)
 
++ 논문 리뷰
+
 
 <!--
 **hwii-kk/hwii-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

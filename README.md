@@ -15,7 +15,7 @@
 ### Study
 + [머신러닝 교과서 딥러닝 파트](https://github.com/hwii-kk/machine-learning-text-book-DL)
 
-+ 논문 리뷰
++ [논문 리뷰](https://github.com/hwii-kk/Eassay-Review)
 
 
 <!--

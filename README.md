@@ -12,7 +12,7 @@
 
 + [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)
 
-+ 데이콘 - KNOW 기반 직업 추천 알고리즘 경진대회
++ 데이콘 - KNOW 기반 직업 추천 알고리즘 경진대회(28/360)
 
 ### Study
 + [머신러닝 교과서 딥러닝 파트](https://github.com/hwii-kk/machine-learning-text-book-DL)

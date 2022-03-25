@@ -17,6 +17,8 @@
 ### Study
 + [머신러닝 교과서 딥러닝 파트](https://github.com/hwii-kk/machine-learning-text-book-DL)
 
++ 파이토치로 배우는 자연어 처리
+
 + [논문 리뷰](https://github.com/hwii-kk/Eassay-Review)
 
 

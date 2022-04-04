@@ -6,13 +6,13 @@
 
 ### Project
 
-+ 울산항만공사 빅데이터 경진대회
++ 울산항만공사 빅데이터 경진대회(우수상)
 
 + [2021 빅콘테스트 제주 ECO 부문](https://github.com/hwii-kk/21-BigContest)
 
 + [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)
 
-+ [데이콘 - KNOW 기반 직업 추천 알고리즘 경진대회](https://github.com/hwii-kk/dacon-know)
++ [데이콘 - KNOW 기반 직업 추천 알고리즘 경진대회(상위 8% 랭크)](https://github.com/hwii-kk/dacon-know)
 
 ### Study
 + [머신러닝 교과서 딥러닝 파트](https://github.com/hwii-kk/machine-learning-text-book-DL)

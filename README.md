@@ -19,7 +19,7 @@
 
 + [논문 리뷰](https://github.com/hwii-kk/Eassay-Review)
 
-+ time series anomaly detection
++ [Time Series Anomaly Detection](https://github.com/hwii-kk/ts_anomaly_detection)
 
 ### etc
 

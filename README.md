@@ -19,6 +19,8 @@
 
 + [논문 리뷰](https://github.com/hwii-kk/Eassay-Review)
 
++ time series anomaly detection
+
 ### etc
 
 + yolov5 manual

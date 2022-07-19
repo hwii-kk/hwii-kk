@@ -19,7 +19,9 @@
 
 + [논문 리뷰](https://github.com/hwii-kk/Eassay-Review)
 
+##etc
 
++ yolov5 manual
 <!--
 **hwii-kk/hwii-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

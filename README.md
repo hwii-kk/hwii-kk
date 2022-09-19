@@ -23,7 +23,7 @@
 
 ### etc
 
-+ yolov5 manual
++ [yolov5 manual](https://github.com/hwii-kk/yolov5_manual/blob/main/README.md)
 
 
 

@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=200&section=header&text=Hwisung%20Kwon&fontSize=90)
 
-### This is Hwisung Kwon(HK)
-
 
 ### Undergraduate Student
 - Statistics at University of Seoul.(2017.03~)

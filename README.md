@@ -25,11 +25,14 @@
 
 + yolov5 manual
 
-[![Hwisung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwii-kk)](https://github.com/hwii-kk/github-readme-stats)
 
 
 
 <!--
+[![Hwisung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwii-kk)](https://github.com/hwii-kk/github-readme-stats)
+
+
+
 **hwii-kk/hwii-kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

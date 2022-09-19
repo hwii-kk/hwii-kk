@@ -4,6 +4,10 @@
 ### Undergraduate Student
 - Statistics at University of Seoul.(2017.03~)
 
+### Tech Stacks
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 ### Project
 
 + 울산항만공사 빅데이터 경진대회(우수상)

@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=200&section=header&text=Hwisung%20Kwon&fontSize=90)
 
 
-### Undergraduate Student
-- Statistics at University of Seoul.(2017.03~)
+<!--### Undergraduate Student
+- Statistics at University of Seoul.(2017.03~)-->
 
 ### Tech Stacks
 
@@ -15,7 +15,7 @@
 
 + [2021 빅콘테스트 제주 ECO 부문](https://github.com/hwii-kk/21-BigContest)
 
-+ [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)
+<!--+ [서울시립대학교 강의 프로젝트](https://github.com/hwii-kk/UOS_classs_project)-->
 
 + [데이콘 - KNOW 기반 직업 추천 알고리즘 경진대회(상위 8% 랭크)](https://github.com/hwii-kk/dacon-know)
 
